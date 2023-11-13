@@ -1,0 +1,32 @@
+	- Một số thẻ thông dụng
+h1, p , img, a, table, ob-li, input, button, div, ...
+- các dạng css
+internal, external, inline,
+- ID, Class
+- CSS variable : 
+:root {
+--my-color : red;
+} (Toàn cục)
+h1 {
+--ten-bien: ;
+}(Cục bộ )
+- Đơn vị đo tương đối và tuyệt đối : px, %, rem, em , vh, vw
+padding : px
+border : px loại viền color
+margin : 
+"box-sizing:border-box" :căn chỉnh vừa khung hình gốc khi thêm các padding hay border
+- background-clip : Bố trí background theo cấu trúc ma-bor-pad
+- background-image : chèn ảnh back có thể chèn nhiều ảnh linear-gradient và bgr-repeat ứng dụng riêng 
+- background- origin : bố trí background thoe khung hình
+- Các lớp giả ( pseudo class ) : xác định trạng thái các element và thay đổi thuộc tính :root, :hover, :active, :click, :visited, :first-child, : last-child ( Tác động lên các thẻ )
+- Các phần tử giả (pseudo element): ::before, ::after, ::selection, ::first-lin, ::first-letter ( Tác động lên thuộc tính các thẻ )
+- Căn chỉnh vị trí lớp (position) : relative (theo vị trí gốc), absolute( theo lớp cha gần nhất chứa tt position ), fixed ( cố định theo khung hình ), sticky ( trôi theo khung hình sau đó cố định )
+- 
+
+
+
+
+	
+
+	
+
